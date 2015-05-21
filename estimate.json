@@ -1,0 +1,7 @@
+{"prices":[
+
+{"localized_display_name":"uberX","high_estimate":9,"minimum":"6","duration":520,"estimate":"$6-9","distance":2.46,"display_name":"uberX","product_id":"dee8691c-8b48-4637-b048-300eee72d58d","low_estimate":6,"surge_multiplier":1.0,"currency_code":"USD"},{"localized_display_name":"uberXL","high_estimate":17,"minimum":"13","duration":520,"estimate":"$13-17","distance":2.46,"display_name":"uberXL","product_id":"9ffa937e-7d2e-4bcf-bc2b-ffec4ef24380","low_estimate":13,"surge_multiplier":1.0,"currency_code":"USD"},{"localized_display_name":"UberBLACK","high_estimate":21,"minimum":"17","duration":520,"estimate":"$17-21","distance":2.46,"display_name":"UberBLACK","product_id":"a52a9012-d73e-4127-8440-f273cddfd307","low_estimate":17,"surge_multiplier":1.0,"currency_code":"USD"},{"localized_display_name":"UberSUV","high_estimate":29,"minimum":"25","duration":520,"estimate":"$25-29","distance":2.46,"display_name":"UberSUV","product_id":"4e6fd14c-3866-40f1-b173-f12aeb8fbbd0","low_estimate":25,"surge_multiplier":1.0,"currency_code":"USD"},{"localized_display_name":"uberTAXI","high_estimate":null,"minimum":"11","duration":520,"estimate":"Metered","distance":2.46,"display_name":"uberTAXI","product_id":"f67c83fb-4668-42eb-9aa1-ab32e710c8bf","low_estimate":null,"surge_multiplier":1.0,"currency_code":null}
+
+]}
+
+prices[0].surge_multiplier
